@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1617905601 source:/debian/CodeBlocks/ntpServerLTC/main.cpp
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<stdlib.h>
+
+1617940036 source:/root/Dokumenty/CodeBlocks/ntpServerLTC/main.cpp
+	<ntpServer.h>
+	<cstdio>
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<time.h>
+
+1617933998 source:/root/Dokumenty/CodeBlocks/ntpServerLTC/src/ntpServer.cpp
+	"ntpServer.h"
+	<stdlib.h>
+	<iomanip>
+	<time.h>
+	<sys/types.h>
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<cmath>
+
+1617933133 /root/Dokumenty/CodeBlocks/ntpServerLTC/include/ntpServer.h
+	<cstdint>
+	<ctime>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+
